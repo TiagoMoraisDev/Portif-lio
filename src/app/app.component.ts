@@ -22,7 +22,7 @@ import { Component } from "@angular/core";
       <section class="hero panel" id="inicio">
         <div class="hero-content">
           <div class="portrait" aria-label="Foto de Tiago Morais">
-            <img src="/assets/perfil2.jpg" alt="Tiago Morais" />
+            <img src="/assets/perfil1.jpg" alt="Tiago Morais" />
           </div>
           <div style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">
             Tiago Morais
